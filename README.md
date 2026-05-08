@@ -1,3 +1,3 @@
-# p5play-assets
+# q5play-assets
 
-Assets for p5play.org
+Assets for q5play.org
